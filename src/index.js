@@ -25,6 +25,7 @@ root.render(
         <Boton/>
         <Boton/>
         <Boton/>
+        <Boton text='hola jhon'/>
 
 
     </>
